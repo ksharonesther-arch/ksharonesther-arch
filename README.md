@@ -1,4 +1,5 @@
 # 💫 About Me:
+I'm an experienced Business Analyst
 I'm currently learning and working about AI in Business Analytics
 
 
